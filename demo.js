@@ -7,6 +7,12 @@ var demo = {
     age3: 23,
     name3: '小姐姐',
  
-	
-
+    name2: '小姐姐',
+    age3: 23,
+    name3: '小姐姐',
+ 
+    name2: '小姐姐',
+    age3: 23,
+    name3: '小姐姐',
+ 
 }
