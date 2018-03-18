@@ -15,5 +15,6 @@ var demo = {
     age3: 23,
     name3: '小姐姐',
 
-    working:'工作中'
+    working:'工作中,'
+
 }
