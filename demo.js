@@ -14,30 +14,4 @@ var demo = {
     name2: '小姐姐',
     age3: 23,
     name3: '小姐姐',
- 
 }
-
-var d = 3;
-
-var b = 2;
-
-var b = 2;
-var b = 2;
-var d = 3;
-
-var b = 2;
-
-var b = 2;
-var b = 2;
-var d = 3;
-
-var b = 2;
-
-var b = 2;
-var b = 2;
-var d = 3;
-
-var b = 2;
-
-var b = 2;
-var b = 2;
