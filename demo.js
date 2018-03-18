@@ -14,7 +14,12 @@ var demo = {
     name2: '小姐姐',
     age3: 23,
     name3: '小姐姐',
+<<<<<<< HEAD
 
     working:'工作中,'
 
+=======
+    bug:'修复bug-101',
+    fixbug:'修复bug-103'
+>>>>>>> feature-vulcan
 }
