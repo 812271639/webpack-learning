@@ -15,5 +15,5 @@ var demo = {
     age3: 23,
     name3: '小姐姐',
     bug:'修复bug-101',
-    fixbug:'修复bug'
+    fixbug:'修复bug-103'
 }
