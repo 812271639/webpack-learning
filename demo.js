@@ -16,4 +16,8 @@ var demo = {
     name3: '小姐姐',
  
 }
+
 var d = 3;
+
+var b = 2;
+
