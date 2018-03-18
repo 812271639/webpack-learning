@@ -14,7 +14,7 @@ var demo = {
     name2: '小姐姐',
     age3: 23,
     name3: '小姐姐',
-    bug:'修复bug'
+    bug:'修复bug-101'
 
     
 }
